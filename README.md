@@ -8,4 +8,4 @@
 
 **Open question:** Can an agent trick the monitor into missing its shortcuts?
 
-**Status:** 🚧 Week 1 of 12, setting up.
+**Status:** Week 1 of 12, setting up.
